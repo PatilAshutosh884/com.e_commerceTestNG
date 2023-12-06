@@ -1,0 +1,6 @@
+09:47:57.170 [TestNG-tests-1] INFO  test_cases.TC_002_LoginTest - ==========================setup() invoked============================
+09:47:57.199 [TestNG-tests-2] INFO  test_cases.TC_002_LoginTest - ==========================setup() invoked============================
+09:48:04.906 [TestNG-tests-1] INFO  test_cases.TC_002_LoginTest - link opened
+09:48:07.439 [TestNG-tests-2] INFO  test_cases.TC_002_LoginTest - link opened
+09:48:10.021 [TestNG-tests-2] INFO  test_cases.TC_002_LoginTest - ************************driver teared down*********************************
+09:48:10.022 [TestNG-tests-1] INFO  test_cases.TC_002_LoginTest - ************************driver teared down*********************************
